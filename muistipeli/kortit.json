@@ -1,0 +1,28 @@
+
+[
+    {
+        "image": "../kortit/cat.png",
+        "name": "kissasarvinen"
+    },
+
+    {
+        "image": "../kortit/cat(1).png",
+        "name": "istuvaKissa"
+    },
+
+    {
+        "image": "../kortit/cat(2).png",
+        "name": "kissajooga"
+    },
+
+    {
+        "image": "../kortit/napping.png",
+        "name": "nukkuvaKissa"
+    },
+
+    {
+        "image": "../kortit/work-from-home.png",
+        "name": "kissaKoneella"
+    }
+
+]
