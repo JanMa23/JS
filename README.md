@@ -1,0 +1,1 @@
+JS harjoituksia youtuben avulla. 
